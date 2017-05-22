@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/williamsfrank/williamsfran
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+HOLISTIC LIVING & LEARNING
 ## Header 2
 ### Header 3
 
@@ -21,9 +22,14 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+DEDICATED TO THE ACHIEVING, MAINTAINING,
+AND PROMOTING OF MENTAL, PHYSICAL & SPIRITUAL
+WELL-BEING ASSISTED BY THE UTILIZATION OF
+INFORMATION TECHNOLOGY RESOURCES
+and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[<a href="http://www.mooc-list.com/" target="_blank">MENTAL</a><a href="http://www.webmd.com/" target="_blank">PHYSICAL</a><a href="http://www.plotinus.com/" target="_blank">SPIRITUAL</a><a href="http://en.wikipedia.org/wiki/Main_Page"
+				target="_blank">RESOURCES</a>](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
