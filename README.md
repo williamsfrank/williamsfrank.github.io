@@ -4,7 +4,7 @@
 		background-size:cover;
 
 		background-position: center center;">
-		<h1 style="font-size:80px;color:#f4ad42;">
+		<h1 style="foont-family:serif;font-size:70px;color:#f4ad42;">
 			HOLISTIC LIVING & LEARNING
                 </h1>
 		<p style="font-weight:bold;font-size:28px;color:#f4ad42;">
@@ -21,7 +21,7 @@
 		<p style="color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU:
 		</p>
-		<nav style="font-size:28px;">
+		<nav style="font-size:28px;text-decoration:underline;">
 			<a href="http://www.mooc-list.com/" target="_blank">MENTAL</a>
 			<a href="http://www.webmd.com/" target="_blank">PHYSICAL</a>
 			<a href="http://www.plotinus.com/" target="_blank">SPIRITUAL</a>
