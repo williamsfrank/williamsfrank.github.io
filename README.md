@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
 		background-repeat:no-repeat;
 
@@ -32,3 +34,4 @@
 				target="_blank">RESOURCES</a>
 		</nav>
 	</body>
+</html>
