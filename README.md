@@ -1,4 +1,4 @@
-t<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
+	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
 		background-repeat:no-repeat;
 
 		background-size:cover;
