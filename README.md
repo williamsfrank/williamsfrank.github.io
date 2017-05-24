@@ -1,23 +1,23 @@
-
-
-	<div style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
+<!DOCTYPE html>
+<html lang="us-en">
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+		<div style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
 		background-repeat:no-repeat;
-
 		background-size:cover;
-
 		background-position: center center;">
-
 		<h1 style="font-family:serif;font-size:80px;color:#f4ad42;">
-
 			HOLISTIC LIVING & LEARNING
                 </h1>
 		<p style="font-weight:bold;font-size:28px;color:#f4ad42;">
 			ABOUT:<br>
-	                Dedicated to the achieving, maintaining,<br> 
-  		        and promoting of optimum mental,<br>
-			physical & spiritual well-being<br>
-			with the assistance of<br> 
-                        information technology resources.
+	                Dedicated to the achieving,<br>
+			maintaining, and promoting<br> 
+			of optimum mental, physical<br>
+			& spiritual well-being with<br> 
+			information technology resources.
 		</p>
 		<iframe width="560" height="315" 
 			src="https://www.youtube.com/embed/I2fsYFzQ3Sk" 
@@ -34,4 +34,5 @@
 				target="_blank">RESOURCES</a>
 		</nav>
 	</div>
+</html>
 
