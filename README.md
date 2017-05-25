@@ -4,7 +4,8 @@
 		<meta charset="UTF-8">
 		<title></title>
 	</head>
-	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
+	<div style="width:100%; 
+		background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
@@ -25,14 +26,13 @@
 		</iframe>
 		<p style="color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU/LINKS:
-		</p>
-		<nav style="font-size:28px;">
-			<a style="text-decoration:underline" href="http://www.mooc-list.com/" target="_blank">MENTAL</a>
-			<a style="text-decoration:underline" href="http://www.webmd.com/" target="_blank">PHYSICAL</a>
-			<a style="text-decoration:underline" href="http://www.plotinus.com/" target="_blank">SPIRITUAL</a>
-			<a style="text-decoration:underline" href="http://en.wikipedia.org/wiki/Main_Page"
-				target="_blank">RESOURCES</a>
-		</nav>
-		</body>
+			<nav style="font-size:28px;">
+				<a style="text-decoration:underline" href="http://www.mooc-list.com/" target="_blank">MENTAL</a>
+				<a style="text-decoration:underline" href="http://www.webmd.com/" target="_blank">PHYSICAL</a>
+				<a style="text-decoration:underline" href="http://www.plotinus.com/" target="_blank">SPIRITUAL</a>
+				<a style="text-decoration:underline" href="http://en.wikipedia.org/wiki/Main_Page"
+					target="_blank">RESOURCES</a>
+			</nav>
+	</div>
 </html>
 
