@@ -4,8 +4,7 @@
 		<meta charset="UTF-8">
 		<title></title>
 	</head>
-	<div style="width:100%; 
-		background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
+	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
@@ -33,6 +32,6 @@
 				<a style="text-decoration:underline" href="http://en.wikipedia.org/wiki/Main_Page"
 					target="_blank">RESOURCES</a>
 			</nav>
-	</div>
+	</body>
 </html>
 
