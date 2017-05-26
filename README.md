@@ -22,10 +22,11 @@
 			src="https://www.youtube.com/embed/I2fsYFzQ3Sk" 
 			frameborder="0" allowfullscreen>
 		</iframe>
+		<br/>
 		<p style="color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU/LINKS:
 		</p>
-		<nav style="font-size:28px;">
+		<nav style="color:#f4ad42;font-size:28px;">
 			<a style="text-decoration:underline" href="http://www.mooc-list.com/" 
 				target="_blank">MENTAL</a>
 			<a style="text-decoration:underline" href="http://www.webmd.com/" 
