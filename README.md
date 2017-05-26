@@ -2,13 +2,12 @@
 <html lang="us-en">
 	<head>
 		<meta charset="UTF-8">
-		<title></title>
 	</head>
 	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
-		<h1 style="font-family:serif;font-size:80px;color:#f4ad42;">
+		<h1 style="font-family:serif;font-size:70px;color:#f4ad42;">
 			HOLISTIC LIVING & LEARNING
                 </h1>
 		<p style="font-weight:bold;font-size:28px;color:#f4ad42;">
@@ -25,13 +24,19 @@
 		</iframe>
 		<p style="color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU/LINKS:
-			<nav style="font-size:28px;">
-				<a style="text-decoration:underline" href="http://www.mooc-list.com/" target="_blank">MENTAL</a>
-				<a style="text-decoration:underline" href="http://www.webmd.com/" target="_blank">PHYSICAL</a>
-				<a style="text-decoration:underline" href="http://www.plotinus.com/" target="_blank">SPIRITUAL</a>
-				<a style="text-decoration:underline" href="http://en.wikipedia.org/wiki/Main_Page"
-					target="_blank">RESOURCES</a>
-			</nav>
+		</p>
+		<nav style="font-size:28px;">
+			<a style="text-decoration:underline" href="http://www.mooc-list.com/" 
+				target="_blank">MENTAL</a>
+			<a style="text-decoration:underline" href="http://www.webmd.com/" 
+				target="_blank">PHYSICAL</a>
+			<a style="text-decoration:underline" href="http://www.plotinus.com/" 
+				target="_blank">SPIRITUAL</a>
+			<a style="text-decoration:underline" href="https://www.indiegogo.com/#/picks_for_you" 
+				target="_blank">FUNDING</a>
+			<a style="text-decoration:underline" href="http://en.wikipedia.org/wiki/Main_Page"
+				target="_blank">RESOURCES</a>
+		</nav>
 	</body>
 </html>
 
