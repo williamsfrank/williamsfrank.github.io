@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-us">
 	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
@@ -29,6 +30,8 @@
 			target="_blank">SPIRITUAL</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://en.wikipedia.org/wiki/Main_Page" 
 			target="_blank">RESOURCES</a>
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="https://www.indiegogo.com/#/picks_for_you/"
+			target="_blank">FUNDING</a>
 		</nav>
 	</body>
 </html>
