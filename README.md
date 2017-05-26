@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-us">
-	<head>
-		<meta charset="UTF-8>
-		<title></title>
-	</head>
-
 	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
 		background-repeat:no-repeat;
 		background-size:cover;
@@ -12,7 +7,7 @@
 		<h1 style="font-family:serif;font-size:80px;color:#f4ad42;">
 			HOLISTIC LIVING & LEARNING
 		</h1>
-		<p style="font-weight:bold;font-size:28px;color:#f4ad42;">
+		<p style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
 			ABOUT:<br>
 	        	Dedicated to the achieving,<br>
 			maintaining, and promoting<br> 
@@ -24,7 +19,7 @@
 			src="https://www.youtube.com/embed/I2fsYFzQ3Sk" 
 			frameborder="0" allowfullscreen>
 		</iframe>
-		<p style="color:#f4ad42;font-size:28px;font-weight:bold;">
+		<p style="font-family:serif;color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU/LINKS:
 		</p>
 		<nav style="font-size:28px;">
