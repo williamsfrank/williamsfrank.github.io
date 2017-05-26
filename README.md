@@ -27,16 +27,12 @@
 			MENU/LINKS:
 		</p>
 		<nav style="font-size:28px;">
-			<a style="color:#f4ad42;text-decoration:underline" href="http://www.mooc-list.com/" 
-				target="_blank">MENTAL</a>
-			<a style="color:#f4ad42;text-decoration:underline" href="http://www.webmd.com/" 
-				target="_blank">PHYSICAL</a>
-			<a style="color:#f4ad42;text-decoration:underline" href="http://www.plotinus.com/" 
-				target="_blank">SPIRITUAL</a>
-			<a style="color:#f4ad42;text-decoration:underline" href="https://www.indiegogo.com/#/picks_for_you" 
-				target="_blank">FUNDING</a>
-			<a style="color:#f4ad42;text-decoration:underline" href="http://en.wikipedia.org/wiki/Main_Page"
-				target="_blank">RESOURCES</a>
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;text-decoration:underline" 
+			href="http://www.mooc-list.com/" target="_blank">MENTAL</a>
+			<a style="font-family:serif;font-weight-bold;color:#f4ad42;text-decoration:underline" 								href="http://www.webmd.com/" target="_blank">PHYSICAL</a>
+			<a style="font-family:serif;font-weight-bold;color:#f4ad42;text-decoration:underline" 								href="http://www.plotinus.com/" target="_blank">SPIRITUAL</a>
+			<a style="font-family:serif;font-weight-bold;color:#f4ad42;text-decoration:underline" 								href="https://www.indiegogo.com/#/picks_for_you" target="_blank">FUNDING</a>
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;text-decoration:underline" 								href="http://en.wikipedia.org/wiki/Main_Page"target="_blank">RESOURCES</a>
 		</nav>
 	</body>
 </html>
