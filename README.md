@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+c<!DOCTYPE html>
 <html lang="us-en">
 	<head>
 		<meta charset="UTF-8">
@@ -22,20 +22,20 @@
 			src="https://www.youtube.com/embed/I2fsYFzQ3Sk" 
 			frameborder="0" allowfullscreen>
 		</iframe>
-		<br/>
+		<br>
 		<p style="color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU/LINKS:
 		</p>
-		<nav style="color:#f4ad42;font-size:28px;">
-			<a style="text-decoration:underline" href="http://www.mooc-list.com/" 
+		<nav style="font-size:28px;">
+			<a style="color:f4ad42;text-decoration:underline" href="http://www.mooc-list.com/" 
 				target="_blank">MENTAL</a>
-			<a style="text-decoration:underline" href="http://www.webmd.com/" 
+			<a style="color:f4ad42;text-decoration:underline" href="http://www.webmd.com/" 
 				target="_blank">PHYSICAL</a>
-			<a style="text-decoration:underline" href="http://www.plotinus.com/" 
+			<a style="color:f4ad42;text-decoration:underline" href="http://www.plotinus.com/" 
 				target="_blank">SPIRITUAL</a>
-			<a style="text-decoration:underline" href="https://www.indiegogo.com/#/picks_for_you" 
+			<a style="color:f4ad42;text-decoration:underline" href="https://www.indiegogo.com/#/picks_for_you" 
 				target="_blank">FUNDING</a>
-			<a style="text-decoration:underline" href="http://en.wikipedia.org/wiki/Main_Page"
+			<a style="color:f4ad42;text-decoration:underline" href="http://en.wikipedia.org/wiki/Main_Page"
 				target="_blank">RESOURCES</a>
 		</nav>
 	</body>
