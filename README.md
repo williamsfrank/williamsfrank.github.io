@@ -34,7 +34,7 @@
 			target="_blank">FUNDING</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.self-sufficient-farm-living.com/" 
 			target="_blank">SUSTAINABILITY</a>
-			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="https://books.google.com/"
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://onlinebooks.library.upenn.edu/"
 			target="_blank">PUBLICATIONS</a>
 		</nav>
 	</body>
