@@ -32,9 +32,9 @@
 			target="_blank">RESOURCES</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="https://www.indiegogo.com/#/picks_for_you/"
 			target="_blank">FUNDING</a>
-			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" herf="http://www.self-sufficient-farm-living.com/" 
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.self-sufficient-farm-living.com/" 
 			target="_blank">SUSTAINABILITY</a>
-			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" herf="https://books.google.com/"
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="https://books.google.com/"
 			target="_blank">PUBLICATIONS</a>
 		</nav>
 	</body>
