@@ -30,7 +30,7 @@
 			target="_blank">SPIRITUAL</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://en.wikipedia.org/wiki/Main_Page" 
 			target="_blank">RESOURCES</a>
-			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="https://www.indiegogo.com/#/picks_for_you/"
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://l-lists.com/en/lists/phayv1.html"
 			target="_blank">FUNDING</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.self-sufficient-farm-living.com/" 
 			target="_blank">SUSTAINABILITY</a>
