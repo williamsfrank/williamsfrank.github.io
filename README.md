@@ -13,7 +13,7 @@
 	        	Dedicated to the achieving,<br>
 			maintaining, and promoting<br> 
 			of optimum mental, physical<br>
-			& spiritual well-being using<br> 
+			& spiritual well-being utilizing.<br> 
 			information technology resources.
 		</p>
 		<iframe width="560" height="315" 
