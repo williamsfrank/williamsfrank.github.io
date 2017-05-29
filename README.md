@@ -7,9 +7,9 @@
 		<h1 style="font-family:serif;font-size:96px;color:#f4ad42;">
 			QUENCHER
 		</h1>
-		<p style="font-family:serif;font-weight:bold;font-size:16px;color:#f4ad42;">
-			(IF, you thirst for knowledge,<br>
-			THEN, here resides a oasis)
+		<p style="font-family:serif;font-weight:bold;font-size:20px;color:#f4ad42;">
+			(IF, YOU THIRST FOR KNOWLEDGE,<br>
+			THEN, HERE RESIDES AN OASIS)
 		</p>	
 		<p style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
 			ABOUT:<br>
