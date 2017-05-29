@@ -4,9 +4,13 @@
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
-		<h1 style="font-family:serif;font-size:80px;color:#f4ad42;">
-			HOLISTIC LIVING & LEARNING
+		<h1 style="font-family:serif;font-size:96px;color:#f4ad42;">
+			QUENCHER
 		</h1>
+		<p style="font-family:serif;font-weight:bold;font-size:16px;color:#f4ad42;">
+			(IF, you thirst for knowledge,<br>
+			THEN, here resides a oasis)
+		</p>	
 		<p style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
 			ABOUT:<br>
 	        	Dedicated to the achieving,<br>
