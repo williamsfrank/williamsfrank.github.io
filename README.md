@@ -30,7 +30,8 @@
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.plotinus.com/" 
 			target="_blank">SPIRITUAL</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://l-lists.com/en/lists/phayv1.html"
-			target="_blank">FUNDING</a><br>
+			target="_blank">FUNDING</a>
+			<br>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://self-sufficiency-guide.com/" 
 			target="_blank">SUSTAINABILITY</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://onlinebooks.library.upenn.edu/"
