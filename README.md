@@ -29,11 +29,11 @@
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.webmd.com/" 	 	 	                         target="_blank">PHYSICAL</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.plotinus.com/" 
 			target="_blank">SPIRITUAL</a>
-			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://l-lists.com/en/lists/phayv1.html"
-			target="_blank">FUNDING</a>
-			<br>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://self-sufficiency-guide.com/" 
 			target="_blank">SUSTAINABILITY</a>
+			<br>
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://l-lists.com/en/lists/phayv1.html"
+			target="_blank">FUNDING</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://onlinebooks.library.upenn.edu/"
 			target="_blank">PUBLICATIONS</a>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://en.wikipedia.org/wiki/Main_Page" 
