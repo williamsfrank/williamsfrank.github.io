@@ -25,17 +25,16 @@
 		</iframe>
 		<p style="font-family:serif;color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU/LINKS:<br>
-			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.mooc-list.com/"       	       				target="_blank">MENTAL</a>
-			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.webmd.com/" 	 	 	                         target="_blank">PHYSICAL</a>
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.mooc-list.com/"       	       				target="_blank">MENTAL</a><br>
+			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.webmd.com/" 	 	 	                         target="_blank">PHYSICAL</a><br>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://www.plotinus.com/" 
-			target="_blank">SPIRITUAL</a>
+			target="_blank">SPIRITUAL</a><br>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://self-sufficiency-guide.com/" 
-			target="_blank">SUSTAINABLE</a>
-			<br>
+			target="_blank">SUSTAINABLE</a><br>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://l-lists.com/en/lists/phayv1.html"
-			target="_blank">FUNDING</a>
+			target="_blank">FUNDING</a><br>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://onlinebooks.library.upenn.edu/"
-			target="_blank">PUBLICATIONS</a>
+			target="_blank">PUBLICATIONS</a><br>
 			<a style="font-family:serif;font-weight:bold;color:#f4ad42;" href="http://en.wikipedia.org/wiki/Main_Page" 
 			target="_blank">RESOURCES</a>
 		</p>
