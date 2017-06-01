@@ -32,7 +32,7 @@
 			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://self-sufficiency-guide.com/" 		 			 target="_blank">SUSTAINABLE</a><br>
 			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://l-lists.com/en/lists/phayv1.html" 				target="_blank">FUNDING</a><br>
 			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://onlinebooks.library.upenn.edu/" 				target="_blank">PUBLICATIONS</a><br>
-			<a style="color:#0066fffont-family:serif;font-weight:bold;" href="http://en.wikipedia.org/wiki/Main_Page" 				target="_blank">RESOURCES</a>
+			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://en.wikipedia.org/wiki/Main_Page" 				target="_blank">RESOURCES</a>
 		</p>
 	</body>
 </html>
