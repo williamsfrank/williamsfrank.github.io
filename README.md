@@ -4,21 +4,18 @@
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
-		<h1 style="font-family:serif;font-size:96px;color:#f4ad42;">
-			QUENCHER
+		<h1 style="font-family:serif;font-weight:bold;font-size:96px;color:#f4ad42;">
+			HOLISTIC LIVING<br>
+			& LEARNING
 		</h1>
-		<p style="font-family:serif;font-weight:bold;font-size:20px;color:#f4ad42;">
-			(IF, YOU THIRST FOR KNOWLEDGE<br>
-			THEN, HERE RESIDES AN OASIS)
-		</p>	
-		<p style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
+		<h2 style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
 			ABOUT:<br>
 	        	Dedicated to the achieving,<br>
 			maintaining, and promoting<br> 
 			of optimum mental, physical<br>
 			& spiritual well-being, utilizing<br> 
 			information technology resources.
-		</p>
+		</h2>
 		<iframe width="560" height="315" 
 			src="https://www.youtube.com/embed/I2fsYFzQ3Sk" 
 			frameborder="0" allowfullscreen>
