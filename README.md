@@ -1,21 +1,22 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en-us">
 	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
-		<h1 style="font-family:serif;font-weight:bold;font-size:96px;color:#f4ad42;">
-			HOLISTIC LIVING<br>
-			& LEARNING
+		<h1 style="font-family:serif;font-size:80px;color:#f4ad42;">
+			HOLISTIC<br> 
+			LIVING &<br>
+			LEARNING
 		</h1>
-		<h2 style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
+		<p style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
 			ABOUT:<br>
 	        	Dedicated to the achieving,<br>
 			maintaining, and promoting<br> 
 			of optimum mental, physical<br>
 			& spiritual well-being, utilizing<br> 
 			information technology resources.
-		</h2>
+		</p>
 		<iframe width="560" height="315" 
 			src="https://www.youtube.com/embed/I2fsYFzQ3Sk" 
 			frameborder="0" allowfullscreen>
