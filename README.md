@@ -12,10 +12,10 @@
 		<p style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
 			ABOUT:<br>
 	        	Dedicated to the achieving,<br>
-			maintaining, and promoting<br> 
-			of optimum mental, physical<br>
-			& spiritual well-being, utilizing<br> 
-			information technology resources.
+			maintaining, and promoting of<br> 
+		 	optimum mental, physical and<br>
+			spiritual well-being with the help<br> 
+			of information technology resources.
 		</p>
 		<iframe width="560" height="315" 
 			src="https://www.youtube.com/embed/I2fsYFzQ3Sk" 
