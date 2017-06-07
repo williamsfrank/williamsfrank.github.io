@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-us">
 	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
@@ -33,7 +32,7 @@
 			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://onlinebooks.library.upenn.edu/" 				target="_blank">PUBLICATIONS</a><br>
 			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://en.wikipedia.org/wiki/Main_Page" 				target="_blank">RESOURCES</a>
 			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="mailto:fjwholistic@live.com?Subject=Hello"
-			target="_top">CONTACTUS</a>
+			target="_top">CONTACT_US</a>
 		</p>
 	</body>
 </html>
