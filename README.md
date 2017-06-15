@@ -17,7 +17,7 @@
 			spiritual well-being with the help<br> 
 			of information technology resources.
 		</p>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/Mt93d1M2K2c" 
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/rtchEUmw56g" 
 			frameborder="0" allowfullscreen>
 		</iframe>
 		<p style="font-family:serif;color:#f4ad42;font-size:28px;font-weight:bold;">
