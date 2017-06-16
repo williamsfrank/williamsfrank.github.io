@@ -17,8 +17,9 @@
 			spiritual well-being with the help<br> 
 			of information technology resources.
 		</p>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/nPeKaZlQrCY" 
-			frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/70ulUDf8A5Q" 
+			frameborder="0" allowfullscreen>
+			</iframe>
 		<p style="font-family:serif;color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU/LINKS:<br>
 			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://www.mooc-list.com/"       	       		 		target="_blank">MENTAL</a><br>
