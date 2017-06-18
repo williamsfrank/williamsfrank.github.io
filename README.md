@@ -17,21 +17,21 @@
 			spiritual well-being with the help<br> 
 			of information technology resources.
 		</p>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/70ulUDf8A5Q" 
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/WAF0FzA_8t0" 
 			frameborder="0" allowfullscreen>
 			</iframe>
 		<p style="font-family:serif;color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU/LINKS:<br>
-			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://www.mooc-list.com/"       	       		 		target="_blank">MENTAL</a><br>
-			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://www.webmd.com/" 	 	 	         		 target="_blank">PHYSICAL</a><br>
-			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://www.plotinus.com/" 
-			target="_blank">SPIRITUAL</a><br>
-			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://self-sufficiency-guide.com/" 		 			 target="_blank">SUSTAINABLE</a><br>
-			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://l-lists.com/en/lists/phayv1.html" 				target="_blank">FUNDING</a><br>
-			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://onlinebooks.library.upenn.edu/" 				target="_blank">PUBLICATIONS</a><br>
-			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="http://en.wikipedia.org/wiki/Main_Page" 				target="_blank">RESOURCES</a><br>
-			<a style="color:#0066ff;font-family:serif;font-weight:bold;" href="mailto:fjwholistic@live.com?Subject=Hello"
-			target="_top">CONTACT_US</a>
+			<a style="color:#0066ff;" href="http://www.mooc-list.com/"       	       		 							target="_blank">MENTAL</a><br>
+			<a style="color:#0066ff;" href="http://www.webmd.com/" 	 	 	         		 						target="_blank">PHYSICAL</a><br>
+			<a style="color:#0066ff;" href="http://www.plotinus.com/" 
+				target="_blank">SPIRITUAL</a><br>
+			<a style="color:#0066ff;" href="http://self-sufficiency-guide.com/" 		 			 					target="_blank">SUSTAINABLE</a><br>
+			<a style="color:#0066ff;" href="http://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
+			<a style="color:#0066ff;" href="http://onlinebooks.library.upenn.edu/" 										target="_blank">PUBLICATIONS</a><br>
+			<a style="color:#0066ff;" href="http://en.wikipedia.org/wiki/Main_Page" 									target="_blank">RESOURCES</a><br>
+			<a style="color:#0066ff;" href="mailto:fjwholistic@live.com?Subject=Hello"
+				target="_top">CONTACT_US</a>
 		</p>
 	</body>
 </html>
