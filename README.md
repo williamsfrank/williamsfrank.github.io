@@ -4,7 +4,7 @@
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
-		<h1 style="font-family:serif;font-weight:bold;font-size:80px;color:#f4ad42;">
+		<h1 style="font-family:serif;font-weight:bold;font-size:72px;color:#f4ad42;">
 			HOLISTIC<br> 
 			LIVING &<br>
 			LEARNING
