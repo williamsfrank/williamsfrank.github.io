@@ -15,9 +15,9 @@
 			maintaining, and promoting of<br> 
 		 	optimum mental, physical and<br>
 			spiritual well-being with the help<br> 
-			of information technology resources.
+			of information technology resources
 		</p>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/s30u1ZCsHy0" 
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/SZ5p_w4_f0c" 
 			frameborder="0" allowfullscreen>
 		</iframe>
 		<p style="font-family:serif;color:#f4ad42;font-size:28px;font-weight:bold;">
