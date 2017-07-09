@@ -29,6 +29,7 @@
 			<a style="color:#0066ff;" href="http://self-sufficiency-guide.com/" 		 			 					target="_blank">SELF-SUFFICIENCY</a><br>
 			<a style="color:#0066ff;" href="http://www.home-remedies-for-you.com/"
 				target="_blank">NATURAL_REMEDIES</a><br>
+			<a style="color:#0066ff;" href="https://www.quora.com/What-are-the-best-resources-for-finding-remote-or-virtual-				jobs" target="_blank">REMOTE_EMPLOYMENT</a><br>	
 			<a style="color:#0066ff;" href="http://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
 			<a style="color:#0066ff;" href="https://www.craigslist.org/about/sites"
 				target="_blank">CRAIGSLIST</a><br>
