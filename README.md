@@ -30,8 +30,6 @@
 			<a style="color:#0066ff;" href="http://www.home-remedies-for-you.com/"
 				target="_blank">NATURAL_REMEDIES</a><br>
 			<a style="color:#0066ff;" href="http://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
-			<a style="color:#0066ff;" href="http://blog.creativelive.com/best-sites-finding-remote-jobs
-				target="_blank">REMOTE_WORK</a><br>
 			<a style="color:#0066ff;" href="https://www.craigslist.org/about/sites"
 				target="_blank">CRAIGSLIST</a><br>
 			<a style="color:#0066ff;" href="http://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
