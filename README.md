@@ -31,10 +31,10 @@
 				target="_blank">NATURAL_REMEDIES</a><br>
 			<a style="color:#0066ff;" href="https://www.quora.com/What-are-the-best-resources-for-finding-remote-or-virtual-				jobs" target="_blank">REMOTE_EMPLOYMENT</a><br>	
 			<a style="color:#0066ff;" href="http://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
+			<a style="color:#0066ff;" href="http://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
+			<a style="color:#0066ff;" href="http://en.wikipedia.org/wiki/Main_Page"                                                                         target="_blank">WIKIPEDIA</a><br>
 			<a style="color:#0066ff;" href="https://www.craigslist.org/about/sites"
 				target="_blank">CRAIGSLIST</a><br>
-			<a style="color:#0066ff;" href="http://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
-			<a style="color:#0066ff;" href="http://en.wikipedia.org/wiki/Main_Page"                                                                         target="_blank">WIKIPEDIA</a><br>	
 			<a style="color:#0066ff;" href="mailto:fjwholistic@live.com?Subject=Hello"
 				target="_top">CONTACT_US</a>
 		</p>
