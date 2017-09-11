@@ -26,8 +26,8 @@
 			<a style="color:#0066ff;" href="http://www.webmd.com/" 	 	 	         		 						target="_blank">PHYSICAL</a><br>
 			<a style="color:#0066ff;" href="http://www.plotinus.com/" 
 				target="_blank">SPIRITUAL</a><br>
-			<a style="color:#0066ff;" href="http://self-sufficiency-guide.com/" 		 			 					target="_blank">SELF-SUFFICIENCY</a><br>
 			<a style="color:#0066ff;" href="http://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
+			<a style="color:#0066ff;" href="http://self-sufficiency-guide.com/" 		 			 					target="_blank">SELF-SUFFICIENCY</a><br>
 			<a style="color:#0066ff;" href="http://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
 			<a style="color:#0066ff;" href="http://en.wikipedia.org/wiki/Main_Page"                                                                         target="_blank">WIKIPEDIA</a><br>
 			<a style="color:#0066ff;" href="https://www.craigslist.org/about/sites"
