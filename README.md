@@ -21,7 +21,7 @@
 			frameborder="0" allowfullscreen>
 		</iframe>
 		<p style="font-family:serif;color:#f4ad42;font-size:28px;font-weight:bold;">
-			MENU/LINKS:<br>
+			MENU:<br>
 			<a style="color:#0066ff;" href="http://www.mooc-list.com/"       	       		 							target="_blank">MENTAL</a><br>
 			<a style="color:#0066ff;" href="http://www.webmd.com/" 	 	 	         		 						target="_blank">PHYSICAL</a><br>
 			<a style="color:#0066ff;" href="http://www.plotinus.com/" 
