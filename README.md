@@ -31,7 +31,7 @@
 			<a style="color:#0066ff;" href="http://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
 			<a style="color:#0066ff;" href="http://en.wikipedia.org/wiki/Main_Page"                                                                         target="_blank">WIKIPEDIA</a><br>
 			<a style="color:#0066ff;" href="https://www.craigslist.org/about/sites"
-				target="_blank">CRAIGSLIST</a><br>
+				target="_blank">CLASSIFIEDS</a><br>
 			<a style="color:#0066ff;" href="mailto:fjwholistic@live.com?Subject=Hello"
 				target="_top">CONTACT_US</a>
 		</p>
