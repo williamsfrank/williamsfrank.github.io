@@ -23,19 +23,19 @@
 		</iframe>
 		<p style="font-family:serif;color:#f4ad42;font-size:28px;font-weight:bold;">
 			MENU:<br>
-			<a style="color:#0066ff;" href=" https://www.mooc-list.com/"       	       		 							target="_blank">MENTAL</a><br>
-			<a style="color:#0066ff;" href=" https://www.webmd.com/" 	 	 	         		 						target="_blank">PHYSICAL</a><br>
-			<a style="color:#0066ff;" href=" http://www.plotinus.com/" 
+			<a style="color:#0066ff;" href="https://www.mooc-list.com/"       	       		 							target="_blank">MENTAL</a><br>
+			<a style="color:#0066ff;" href="https://www.webmd.com/" 	 	 	         		 						target="_blank">PHYSICAL</a><br>
+			<a style="color:#0066ff;" href="https://www.plotinus.com/" 
 				target="_blank">SPIRITUAL</a><br>
-			<a style="color:#0066ff;" href=" https://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
-			<a style="color:#0066ff;" href=" https://www.self-sufficient-farm-living.com" 
+			<a style="color:#0066ff;" href="https://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
+			<a style="color:#0066ff;" href="https://www.self-sufficient-farm-living.com" 
 			        target="_blank">SELF-SUFFICIENCY</a><br>
-			<a style="color:#0066ff;" href=" https://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
-			<a style="color:#0066ff;" href=" https://en.wikipedia.org/wiki/Main_Page"                                                                         target="_blank">WIKIPEDIA</a><br>
-			<a style="color:#0066ff;" href=" https://www.britannica.com/"                                                                                     target="_blank">ENCYCLOPEDIA</a><br>
-			<a style="color:#0066ff;" href=" https://www.craigslist.org/about/sites"
+			<a style="color:#0066ff;" href="https://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
+			<a style="color:#0066ff;" href="https://en.wikipedia.org/wiki/Main_Page"                                                                         target="_blank">WIKIPEDIA</a><br>
+			<a style="color:#0066ff;" href="https://www.britannica.com/"                                                                                     target="_blank">ENCYCLOPEDIA</a><br>
+			<a style="color:#0066ff;" href="https://www.craigslist.org/about/sites"
 				target="_blank">CLASSIFIEDS</a><br>
-			<a style="color:#0066ff;" href=" mailto:fjwholistic@live.com?Subject=Hello"
+			<a style="color:#0066ff;" href="mailto:fjwholistic@live.com?Subject=Hello"
 				target="_top">CONTACT_US</a>
 		</p>
 	</body>
