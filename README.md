@@ -30,7 +30,7 @@
 			<a style="color:#0066ff;" href="http://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
 			<a style="color:#0066ff;" href="https://www.self-sufficient-farm-living.com" 
 			        target="_blank">SELF-SUFFICIENCY</a><br>
-			<a style="color:#0066ff;" href="http://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
+			<a style="color:#0066ff;" href=" https://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
 			<a style="color:#0066ff;" href="http://en.wikipedia.org/wiki/Main_Page"                                                                         target="_blank">WIKIPEDIA</a><br>
 			<a style="color:#0066ff;" href="https://www.britannica.com/"                                                                                     target="_blank">ENCYCLOPEDIA</a><br>
 			<a style="color:#0066ff;" href="https://www.craigslist.org/about/sites"
