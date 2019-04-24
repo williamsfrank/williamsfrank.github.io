@@ -25,7 +25,7 @@
 			MENU:<br>
 			<a style="color:#0066ff;" href=" https://www.mooc-list.com/"       	       		 							target="_blank">MENTAL</a><br>
 			<a style="color:#0066ff;" href=" https://www.webmd.com/" 	 	 	         		 						target="_blank">PHYSICAL</a><br>
-			<a style="color:#0066ff;" href="www.plotinus.com/" 
+			<a style="color:#0066ff;" href=" http://www.plotinus.com/" 
 				target="_blank">SPIRITUAL</a><br>
 			<a style="color:#0066ff;" href=" https://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
 			<a style="color:#0066ff;" href=" https://www.self-sufficient-farm-living.com" 
