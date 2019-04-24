@@ -32,7 +32,7 @@
 			        target="_blank">SELF-SUFFICIENCY</a><br>
 			<a style="color:#0066ff;" href="http://onlinebooks.library.upenn.edu/" 										target="_blank">E-BOOKS</a><br>	
 			<a style="color:#0066ff;" href="http://en.wikipedia.org/wiki/Main_Page"                                                                         target="_blank">WIKIPEDIA</a><br>
-			<a style="color:#0066ff;"href="https://www.britannica.com/"                                                                                     target="_blank">ENCYCLOPEDIA BRITANNICA</a><br>
+			<a style="color:#0066ff;" href="https://www.britannica.com/"                                                                                     target="_blank">ENCYCLOPEDIA BRITANNICA</a><br>
 			<a style="color:#0066ff;" href="https://www.craigslist.org/about/sites"
 				target="_blank">CLASSIFIEDS</a><br>
 			<a style="color:#0066ff;" href="mailto:fjwholistic@live.com?Subject=Hello"
