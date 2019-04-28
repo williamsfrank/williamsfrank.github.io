@@ -13,9 +13,9 @@
 			ABOUT:<br>
 	        	Dedicated to the achieving,<br>
 			maintaining, and promoting of<br> 
-		 	optimum mental, physical and<br>
-			spiritual well-being with the help<br> 
-			of information technology resources.
+		 	optimum holistic well-being with<br>
+			a lifelong-learning mindset and the<br> 
+			use of information technology resources.
 		</p>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/Tw9PYw_ESs8" 
 			frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
