@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-	<body style="background-image:url(https://i.ytimg.com/vi/PYFiPerugzA/hqdefault.jpg);
+	<body style="background-image:url(https://media.giphy.com/media/7HTf2viTL4Xle/giphy.gif);
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
