@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-	<body style="background-image:url(https://media.giphy.com/media/7HTf2viTL4Xle/giphy.gif);
+	<body style="background-image:url(<iframe src="https://giphy.com/embed/7HTf2viTL4Xle" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/universe-infinity-expanding-7HTf2viTL4Xle">via GIPHY</a></p>);
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
