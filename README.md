@@ -13,9 +13,9 @@
 			ABOUT:<br>
 	        	Dedicated to the achieving,<br>
 			maintaining, and promoting of<br> 
-		 	optimum holistic well-being with<br>
-			a lifelong-learning mindset and the<br> 
-			use of information technology resources.
+		 	holistic well-being & prosperity,<br>
+			with a lifelong-learning mindset<br> 
+			& information technology resources.
 		</p>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/Tw9PYw_ESs8" 
 			frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
