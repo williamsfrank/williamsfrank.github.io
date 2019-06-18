@@ -12,10 +12,10 @@
 		<p style="font-family:serif;font-weight:bold;font-size:28px;color:#f4ad42;">
 			ABOUT:<br>
 	        	Dedicated to the achieving,<br>
-			maintaining, and promoting of<br> 
-		 	holistic well-being & prosperity,<br>
-			with a lifelong-learning mindset<br> 
-			& information technology resources.
+			maintaining, and promoting<br> 
+		 	of holistic well-being with<br>
+			a lifelong-learning mindset &<br> 
+			information technology resources.
 		</p>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/Tw9PYw_ESs8" 
 			frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
