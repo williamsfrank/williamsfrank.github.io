@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-	<body style="background-image:url(https://media.giphy.com/media/7HTf2viTL4Xle/giphy.gif);
+	<body style="background-image:url(https://imagizer.imageshack.com/img923/39/ilomaA.png);
 		background-repeat:no-repeat;
 		background-size:cover;
 		background-position: center center;">
