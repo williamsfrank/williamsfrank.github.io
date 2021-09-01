@@ -25,7 +25,7 @@
 			MENU:<br>
 			<a style="color:#00ff00;" href="https://www.mooc-list.com/"       	       		 							target="_blank">MENTAL</a><br>
 			<a style="color:#00ff00;" href="https://www.webmd.com/" 	 	 	         		 						target="_blank">PHYSICAL</a><br>
-			<a style="color:00ff00;" href="https://thebestschools.org/magazine/world-religions-study-starters/" 
+			<a style="color:#00ff00;" href="https://thebestschools.org/magazine/world-religions-study-starters/" 
 				target="_blank">SPIRITUAL</a><br>
 			<a style="color:#00ff00;" href="https://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
 			<a style="color:#00ff00;" href="https://www.self-sufficient-farm-living.com" 
