@@ -25,7 +25,7 @@
 			MENU:<br>
 			<a style="color:#00ff00;" href="https://www.mooc-list.com/"       	       		 							target="_blank">MENTAL</a><br>
 			<a style="color:#00ff00;" href="https://www.webmd.com/" 	 	 	         		 						target="_blank">PHYSICAL</a><br>
-			<a style="color:#00ff00;" href="https://thebestschools.org/magazine/world-religions-study-starters/" 
+			<a style="color:#00ff00;" href="http://www.gnosis.org/library/hermet.htm#:~:text=For%20a%20more%20easily%20readable%20%28and%20very%20reliable%29,the%20Latin%20Asclepius%20in%20a%20New%20English%20Translation." 
 				target="_blank">SPIRITUAL</a><br>
 			<a style="color:#00ff00;" href="https://l-lists.com/en/lists/phayv1.html" 									target="_blank">FUNDING</a><br>
 			<a style="color:#00ff00;" href="https://www.self-sufficient-farm-living.com" 
